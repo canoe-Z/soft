@@ -1,6 +1,6 @@
 /* stylelint-disable selector-list-comma-newline-after */
 .header {
-    background: url(img/优软助航.jpg);
+    background: url(../img/优软助航.jpg);
     background-position: center;
     background-size:cover;
     height: 300px;
